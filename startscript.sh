@@ -4,6 +4,8 @@
 sudo pacman -S powerline #spruces up bash command line
 sudo pacman -S guake
 sudo pacman -S htop
+sudo pacman -S vim
+sudo pacman -S atom
 
 #AUR
 aurman -S zandronum
