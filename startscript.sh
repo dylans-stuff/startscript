@@ -9,6 +9,7 @@ sudo pacman -S atom
 sudo pacman -S keepassx2
 sudo pacman -S syncthing
 sudo pacman -S syncthing-gtk
+sudo pacman -S xfce4-screenshooter
 
 #AUR
 aurman -S zandronum
