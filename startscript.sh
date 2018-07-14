@@ -7,6 +7,8 @@ sudo pacman -S htop
 sudo pacman -S vim
 sudo pacman -S atom
 sudo pacman -S keepassx2
+sudo pacman -S syncthing
+sudo pacman -S syncthing-gtk
 
 #AUR
 aurman -S zandronum
