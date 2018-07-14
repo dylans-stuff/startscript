@@ -6,6 +6,7 @@ sudo pacman -S guake
 sudo pacman -S htop
 sudo pacman -S vim
 sudo pacman -S atom
+sudo pacman -S keepassx2
 
 #AUR
 aurman -S zandronum
