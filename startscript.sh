@@ -11,6 +11,7 @@ sudo pacman -S syncthing
 sudo pacman -S syncthing-gtk
 sudo pacman -S xfce4-screenshooter
 sudo pacman -S pinta
+sudo pacman -S gimp
 
 #AUR
 aurman -S zandronum
