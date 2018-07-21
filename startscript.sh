@@ -13,6 +13,7 @@ sudo pacman -S xfce4-screenshooter
 sudo pacman -S pinta
 sudo pacman -S gimp
 sudo pacman -S file-roller
+sudo pacman -S vlc
 
 #AUR
 aurman -S zandronum
