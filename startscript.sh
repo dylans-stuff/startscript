@@ -14,6 +14,7 @@ sudo pacman -S pinta
 sudo pacman -S gimp
 sudo pacman -S file-roller
 sudo pacman -S vlc
+sudo pacman -S calc
 
 #AUR
 aurman -S zandronum
