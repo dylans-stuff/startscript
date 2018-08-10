@@ -15,6 +15,7 @@ sudo pacman -S gimp
 sudo pacman -S file-roller
 sudo pacman -S vlc
 sudo pacman -S calc
+sudo pacman -S gpicview #image browser
 
 #AUR
 aurman -S zandronum
